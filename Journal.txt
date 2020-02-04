@@ -12,3 +12,12 @@ restarted again got redid of that error now getting calendar is not a class
 having to restart computer because server goes into infintie loop
 
 restarting one more time missed a line in the config
+
+something went very wrong restarting again
+
+fixed am an idiot
+
+got it ot work seems when controllers are made if anything is wrong there is
+no other option rather than to restart
+
+trying to add data to tables to see usability 
