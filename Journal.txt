@@ -1,0 +1,14 @@
+Having issues with yarn integrity set to false but still checks for some reason
+but when maunally checking still is integritable
+
+following this guide
+https://blog.eduonix.com/web-programming-tutorials/learn-create-ruby-on-rails-calendar/
+
+Fixed that error now having Error (uninitialized constant CalendarHelper::Calendar)
+error due to pathing in libs
+
+restarted again got redid of that error now getting calendar is not a class
+
+having to restart computer because server goes into infintie loop
+
+restarting one more time missed a line in the config
